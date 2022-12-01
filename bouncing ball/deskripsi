@@ -1,0 +1,8 @@
+Fitur tambahan
+BouncingBallSimple:
+	-Gravitasi
+	-Gaya gese
+BouncingBall:
+	-Gravitasi
+	-Gaya gesek
+	-Setiap terjadi collission berganti warna random

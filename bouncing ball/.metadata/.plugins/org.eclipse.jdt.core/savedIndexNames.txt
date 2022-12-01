@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/home/cimi/Documents/Workspace/Java/tugas pbo/bouncing ball/.metadata/.plugins/org.eclipse.jdt.core
+3412479324.index
+320433013.index
+3548356363.index
+2496592782.index
+1865797976.index
+1244032300.index
+462206734.index
+2888684633.index
+4294650416.index

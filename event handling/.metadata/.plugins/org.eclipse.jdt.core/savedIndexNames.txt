@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/cimi/Documents/Workspace/Java/tugas pbo/event handling/.metadata/.plugins/org.eclipse.jdt.core
+3435240957.index
+1865797976.index
+2109922267.index
+3412479324.index
+2888684633.index

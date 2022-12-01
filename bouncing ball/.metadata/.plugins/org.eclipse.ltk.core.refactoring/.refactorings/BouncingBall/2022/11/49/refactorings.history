@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;main&apos; to &apos;MultipleBouncingBall/src&apos;&#x0A;- Original project: &apos;BouncingBall&apos;&#x0A;- Destination element: &apos;MultipleBouncingBall/src&apos;&#x0A;- Original element: &apos;BouncingBall/src/main&apos;" description="Copy package" destination="=MultipleBouncingBall/src" element1="/src&lt;main" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1669625307490" version="1.0"/>
+</session>
